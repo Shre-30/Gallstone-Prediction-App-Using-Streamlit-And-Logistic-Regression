@@ -11,4 +11,4 @@ This Streamlit app predicts **Gallstone Risk** using a Logistic Regression model
 ### Run locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run final_demo.py
